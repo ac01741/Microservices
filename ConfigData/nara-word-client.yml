@@ -1,4 +1,4 @@
 ---
-naraConfig:
+nara-config:
   preamble: This is the Narayana.
   luckyWord: Bangalore Microservices training.
